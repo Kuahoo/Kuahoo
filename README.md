@@ -16,6 +16,7 @@ My name is Kaho Tran and I am currently pursuing a Master's in Computer Engineer
 <br/>
 
 - Cool stuff you should check out 😄:
+  - **.dotFiles** - my [Kuahoo/dotFiles](https://github.com/Kuahoo/dotFiles/tree/main) to enhance my terminal/development environment
   - **Oh-My-Zsh** - will update your Bash Terminal into a beautifully themed one
   - **tmux** - a terminal multiplexer. This allows you to run multiple terminal sessions within one terminal. Pretty Neat!
   - **NeoVim** - an updated text-based editor based on Vim.
